@@ -59,3 +59,15 @@
 ## Примечание
 
 В 'ItogModel.ipynb' применяются библиотеки, не используемые в `requirements.txt` из-за того, что они не нужны итоговому приложению. Советуется или дописать в `requirements.txt` требуемые для работы, или использовать из своих системных пакетов.
+
+## Скриншоты веб-проекта
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-4.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
