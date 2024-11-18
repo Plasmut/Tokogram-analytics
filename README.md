@@ -62,12 +62,12 @@
 
 ## Скриншоты веб-проекта
 
-![alt text](image.png)
+![alt text](./Images/Page%201.jfif)
 
-![alt text](image-1.png)
+![alt text](./Images/Page%202.jfif)
 
-![alt text](image-4.png)
+![alt text](./Images/Page%203.png)
 
-![alt text](image-2.png)
+![alt text](./Images/Page%204.jfif)
 
-![alt text](image-3.png)
+![alt text](./Images/Page%205.jfif)
